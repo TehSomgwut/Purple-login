@@ -16,5 +16,9 @@
     "url": "https://github.com/TehSomgwut/Purple-login/issues"
   },
   "homepage": "https://github.com/TehSomgwut/Purple-login#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
 }
